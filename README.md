@@ -1,2 +1,2 @@
-# pCTF-challenges
-Sample challenges for the pCTF platform.
+# pCTF-services
+Sample services for the pCTF platform.
